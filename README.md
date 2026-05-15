@@ -1,36 +1,18 @@
-This Patch is part of the [TESSER environment](https://bitbucket.org/AdrianArtacho/tesserakt/src/master/).
-
-![TTESS:Logo](https://github.com/AdrianArtacho/TesserAkt/blob/main/img/TESSER_logo.png)
-
 # Tesser_gesture
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
 ![TESS:gesture](img/gui.png)
 
-### Usage
+---
 
-* Quick summary
+This Patch is part of the [TESSER environment](https://bitbucket.org/AdrianArtacho/tesserakt/src/master/).
 
-* 
-
-* ### How do I get set up?
-
-* Summary of set up
-
-* Configuration
-
-* Dependencies
-
-* Database configuration
-
-* How to run tests
-
-* Deployment instructions
+![TTESS:Logo](https://github.com/AdrianArtacho/TesserAkt/blob/main/img/TESSER_logo.png)
 
 ____
 
-# To-Do
+## To-Do
 
 - Document
 
